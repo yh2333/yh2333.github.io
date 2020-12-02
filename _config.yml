@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hello"
+title                    : "He Yu"
 title_separator          : "-"
-name                     : &name "He Yu"
+name                     : &name ""
 description              : &description "PhD researcher at University of Manchester"
 url                      : https://yh2333.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
