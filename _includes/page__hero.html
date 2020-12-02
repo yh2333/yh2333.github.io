@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.1/css/all.css" crossorigin="anonymous">
 {% include base_path %}
 
 {% if page.header.image contains "://" %}
@@ -43,7 +44,7 @@
         <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
       {% endif %}
       {% if page.header.cta_url %}
-        <p><a href="{{ cta_path }}" class="btn btn--light-outline btn--large">{{ page.header.cta_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
+        <p><i class="fas fa-thumbs-up"></i><a href="{{ cta_path }}">{{ page.header.cta_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
       {% endif %}
     </div>
   {% else %}
