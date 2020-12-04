@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : ""
+  name             : 
   avatar           : "pic.jpg"
   bio              : "PhD student"
   location         : "Manchester, UK"
