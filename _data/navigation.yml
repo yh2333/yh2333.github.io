@@ -15,8 +15,8 @@ main:
   - title: "About me"
     url: /cv/
         
-  - title: "Blah"
-    url: /blog/
+#   - title: "Blah"
+#     url: /blog/
     
     
 #   - title: "Guide"
