@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 
-* Ph.D in Computer Science, University of Manchester, 2022 (expected)
+* Ph.D in Computer Science, University of Manchester, 2018 - Present
 * MSc in Advanced Computer Science, University of Manchester, 2017
 * BEng in Software Engineering, Qingdao University, 2016
 
@@ -20,10 +20,10 @@ Education
 
 Experience
 ======
-* Feb. 2015 - Present: Teaching Assistant
+* Feb. 2018 - Present: Teaching Assistant
   * University of Manchester
 
 
-* Jun. 2015 - Aug. 2015: Software Engineer Intern
+* Jun. 2015 - Aug. 2015: Software Engineering Intern
   * QST Jiangsu Software Centre
 
